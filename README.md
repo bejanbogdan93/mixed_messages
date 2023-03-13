@@ -9,7 +9,7 @@ This command line random message generator is constructing a message based on th
 
 ### Syntax
 
-> "Keep *state* and *action pronoun objects*."
+> "Keep *state* and *action pronoun object*."
 
 #### Array 1: (states)
 + calm
@@ -33,3 +33,7 @@ This command line random message generator is constructing a message based on th
 
 #### Array 4: (objects)
 + pop can, cars, locket, towel, bar of soap, card, chalk, house, tube of lip balm, can of chili, martini glass, grid paper, blowdryer, children's book, glasses, rolling pin, fish, teddies, spice bottle, pearl necklace, sheep, screw, belt, necktie, sponge, washing machine, game cartridge, extension cord, phone, roll of duct tape, vase, roll of masking tape, wooden spoon, sheet of paper, zebra, blouse, thermometer, toe ring, plush dinosaur, sharpie, wireless control, key, box of chalk, pocketknife, box of tissues, street lights, canvas, pair of dice, carton of ice cream, pair of sunglasses
+
+### To use it,
+1. Clone the code
+2. Run node main.js
